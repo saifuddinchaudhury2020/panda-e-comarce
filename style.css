@@ -1,0 +1,304 @@
+html{
+scroll-behavior: smooth;
+
+
+}
+
+body{
+margin: 0;
+padding: 0;
+font-family: 'Open Sans', sans-serif;
+
+}
+
+/* this is header area style  start*/
+
+.header_bg{
+background:gray;
+color: white;
+
+}
+.header_bg:hover{
+font-style: 22px;
+color: white;
+
+}
+
+/* this is header area style end */
+
+
+/*this is start style banner part start */
+.banner_bg{
+    background: orchid;
+    padding: 30px;
+
+}
+
+.baner_text h2{
+    font-size: 60px;
+	font-weight: 700;
+	color: gray;
+	margin: 0px;
+	padding-bottom: 15px;
+    text-transform: uppercase;
+
+
+}
+.baner_text p{
+
+    color: #ddddd;
+
+	color: #ddd;
+	font-size: 18px;
+	font-weight: normal;
+	padding: 5px 6px;
+	margin: 0px;
+	padding-bottom: 15px;
+
+
+}
+
+.baner_text h4{
+    color: red;
+	padding: 10px;
+	margin: 0px;
+	font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 15px;
+
+
+}
+
+.custom-btn{
+
+background: peru;
+padding: 6px 14px;
+border: none;
+border-radius: 0;
+color: white;
+
+}
+
+.custom-btn:hover{
+background: transparent;
+border: 2px solid tomato;
+color:red;
+border-radius: 2px;
+}
+
+/*banner part style design hasbeen end */
+
+/*catagory part design part start */
+#catagory_part{
+
+padding: 40px 0px;
+
+}
+
+.catagory_part1{
+
+background: linear-gradient(orange, orange);
+border-radius: 5px solid white;
+text-align: center;
+position: relative;
+border:2px;
+
+}
+
+
+
+
+.catagory_part2{
+
+
+    background:#db2bd2 ;
+    border-radius: 5px solid white;
+    text-align: center;
+    position: relative;
+    border: 2px;
+
+}
+
+.catagory_part3{
+    background: #2b31db;
+    border-radius: 5px solid white;
+    text-align: center;
+    position: relative;
+    border: 2px;
+
+
+}
+
+
+
+
+
+.catagory_text h2{
+
+position: absolute;
+color: white;
+text-transform: uppercase;
+font-weight: 700;
+font-size: 22px;
+top: 50%;
+
+}
+
+.catagory_image img{
+width: 80%;
+
+}
+
+
+/*catagory desing part end */
+/*product part desing start */
+
+
+
+.product-type h2{
+    color: gray;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+
+
+.box{
+
+background:#F4ECEC;
+box-sizing: border-box;
+
+}
+
+.shoes_image h5{
+color: black;
+font-weight: bold;
+font-family: sans-serif;
+font-size: 18px;
+text-transform: uppercase;
+}
+
+
+
+
+
+.shoes_image p{
+	color: #4d3e3e;
+	font-size: 14px;
+	font-weight: normal;
+	padding: 0px 3px;
+    text-align: justify;
+    padding-bottom: 10px;
+}
+
+
+.shoes_image h3{
+margin: 0px;
+margin-bottom: 15px;
+
+}
+
+
+
+/*product part desing  end */
+
+
+/*backpacke desing hasbeen start */
+#backpke{
+
+padding: 40px 0px;
+
+
+}
+
+
+/*backpacke desing hasbeen end */
+
+
+/*this  order part design start */
+
+#order_part{
+
+background:#E6B6C6;
+height: 250px;
+}
+
+#order_part::after{
+content: '';
+clear: both;
+display:none;
+
+}
+
+
+
+.order_area{
+padding: 30px 10px;
+
+
+}
+
+
+.order_area h2{
+font-size: 25px;
+color: black;
+text-transform: uppercase;
+font-weight: 800;
+
+}
+.order_area p{
+columns: gray;
+font-weight: normal;
+font-size: 18px;
+}
+
+
+.email{
+display: block;
+margin: auto;
+padding: 10px 0px;
+
+}
+
+.submit {
+	display: block;
+	position: absolute;
+	left: 42%;
+	background:#FF247A;
+	color: white;
+	border: none;
+	border-radius: 2px solid black;
+	/* border-radius: 2px solid black; */
+	border: border 2px solid blak;
+	border: 2px solid black;
+	border-radius: 2px;
+    margin-top: 10px;
+    padding: 5px
+
+
+
+}
+
+
+/*this  order part design end*/
+
+
+
+/*footer area design start */
+
+
+
+.footer_text p{
+font-weight: bold;
+color: black;
+font-size: 20px;
+}
+
+/*footer area design start */
+
+
+
+
+
+
